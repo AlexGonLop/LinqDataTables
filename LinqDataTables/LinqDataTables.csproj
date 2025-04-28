@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFrameworks>netstandard2.0;net8.0</TargetFrameworks>
+        <Authors>Alejandro Gonzalez</Authors>
+        <Description>library that simplifies the process of pagination and sorting of server-side data using LINQ.</Description>
+        <RepositoryUrl>https://github.com/AlexGonLop/LinqDataTables</RepositoryUrl>
+        <PackageTags>LINQ, DataTables, EF Core, Server-side, Pagination, Sorting</PackageTags>
+        <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    </PropertyGroup>
+
+</Project>
